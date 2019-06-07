@@ -139,7 +139,7 @@ img.alignright {
 .yolo img{
   text-align: center;
   width: 50%;
-  height: 40%;
+  height: 60%;
 }
 @media only screen and (max-width: 640px) {
     .half_columns,
@@ -150,7 +150,7 @@ img.alignright {
     }
     .yolo img{
         text-align: center;
-        width: 100%;
+        width: 70%;
         height: 50%;
     }
     .entry-footer img{
